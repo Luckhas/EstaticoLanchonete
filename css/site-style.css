@@ -1,0 +1,55 @@
+body {
+	padding-top: 50px;
+}
+/*NAVBAR STUFFS*/
+#brand-logo {
+	height: 20px;
+}
+/*END*/
+
+/*BANNER*/
+.first-banner {
+	background-image: url("../img/bg_banner.jpg");
+	background-position: center center;
+	padding: 100px 0;
+}
+.first-banner h2 {
+	color: #FFF;
+	text-shadow: 0 0 15px #000;
+}
+/*BANNER END*/
+
+/*GALLERY STUFFS*/
+#gallery-carousel {
+	margin-top: 30px;
+}
+/*GALLERY STUFFS END*/
+
+/*COMMON STUUF*/
+.divider-style-fastfood {
+	width: 100%;
+	height: 200px;
+	background-image: url("../img/bg_divider_fastfood.jpg");
+	background-repeat: repeat-x;
+}
+.social-media-size {
+	width: 200px;
+	text-align: right;
+	font-weight: bolder;
+	margin: 1.5px 0;
+}
+/*COMMON STUUF END*/
+
+/*FOOTER STUFFS*/
+.developer-logo {
+	height: 110px;
+}
+#copyright-box {
+	margin-top: 30px;
+}
+#footer.jumbotron {
+	margin-bottom: 0;
+	background-color: #000;
+	color: #FFF;
+}
+/*FOOTER STUFFS END*/
